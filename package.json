@@ -1,0 +1,26 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobakastar/node_project.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobakastar/node_project/issues"
+  },
+  "homepage": "https://github.com/sobakastar/node_project#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0"
+  }
+}
